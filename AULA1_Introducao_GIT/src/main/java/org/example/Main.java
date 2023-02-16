@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         
-        //sistema de almoxerifado
+        //sistema de almoxerifado.
         
         System.out.println("BEM VINDO AO ALMOXERIFADO!!");
         System.out.println("RESISTOR | CAPACITOR | PROTOBOARD");
