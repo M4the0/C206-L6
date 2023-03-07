@@ -20,6 +20,7 @@ public class Main {
         f2.nome = " Yves";
         f2.idade = 20;
 
+        //igualando os ponteiros
         f1 = f2;
 
         if(f1==f2){

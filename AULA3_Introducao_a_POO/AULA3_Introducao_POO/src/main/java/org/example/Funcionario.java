@@ -10,7 +10,8 @@ public class Funcionario {
     float salario;//salario do funcionario
 
     /*
-    public Funcionario(int idade, String nome, int cpf, float salario) {
+    //construtor do funcionario
+       public Funcionario(int idade, String nome, int cpf, float salario) {
         System.out.println("Criou um novo funcionario");
         this.idade = idade;
         this.nome = nome;
@@ -19,6 +20,8 @@ public class Funcionario {
     }
 
      */
+
+    //METODOS DOS FUNCIONARIOS
     public void tirarFerias(String mes, int qtddias)
     {
         System.out.println("O funcionario " + nome + " tirou ferias no mes de " + mes + " durante " + qtddias + " dias.");
